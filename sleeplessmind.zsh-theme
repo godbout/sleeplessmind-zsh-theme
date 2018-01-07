@@ -1,1 +1,0 @@
-/Users/guill/.oh-my-zsh/custom/themes/sleeplessmind.zsh-theme
