@@ -16,8 +16,8 @@ ZSH_THEME_GIT_PROMPT_MODIFIED="%{$fg_bold[yellow]%}⚑ "
 ZSH_THEME_GIT_PROMPT_DELETED="%{$fg[red]%}✘ "
 ZSH_THEME_GIT_PROMPT_RENAMED="%{$fg[blue]%}➜ "
 ZSH_THEME_GIT_PROMPT_UNMERGED="%{$fg[cyan]%}§ "
-ZSH_THEME_GIT_PROMPT_BEHIND="%{$fg_bold[blue]%}⬇︎ "
-ZSH_THEME_GIT_PROMPT_AHEAD="%{$fg_bold[blue]%}⇪ "
+ZSH_THEME_GIT_PROMPT_BEHIND="%{$fg_bold[blue]%}𐠮 "
+ZSH_THEME_GIT_PROMPT_AHEAD="%{$fg_bold[blue]%}𐠊 "
 
 function get_pwd(){
   git_root=$PWD
