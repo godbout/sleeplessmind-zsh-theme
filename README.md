@@ -7,7 +7,7 @@ zsh theme focused on simple git integration
 
 # How it works
 
-![screenshot](https://github.com/godbout/sleeplessmind-zsh-theme/master/screenshot.png)
+![screenshot](https://github.com/godbout/sleeplessmind-zsh-theme/master/screenshots/screenshot.png)
 
 # Inspirations
 
